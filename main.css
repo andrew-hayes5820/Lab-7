@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Kimberley";
+  src: url(http://www.princexml.com/fonts/larabie/kimberle.ttf) format("truetype");}
+
+h1{
+  font-family: "Kimberley", sans-serif;}
+.photo{ float: left;
+  width: 300px;
+  height: 300px;
+  border-style: inset;
+  border-radius: 5px;}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: Blue;}
+
+blockquote {
+
+padding: 5px;
+background-color: #FFFF99;
+border: dotted 2px #FF9900;”}
+
+.contactme{
+  font-size: 55px;
+  color: grey;}
