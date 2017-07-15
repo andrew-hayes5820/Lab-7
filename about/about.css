@@ -1,0 +1,9 @@
+.navigation li  {
+  width: 200px;
+  height: 50px;
+  list-style: none;
+  display: inline-block;
+}
+.navigation li:hover{
+  opacity: 0.25;
+}
